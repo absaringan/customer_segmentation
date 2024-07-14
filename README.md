@@ -1,5 +1,5 @@
 # Personality Profiling: Customer Segmentation through Clustering Techniques
-![title](https://github.com/user-attachments/assets/36b50fe4-4dde-4878-8470-43c721c596e5)
+![title](https://github.com/user-attachments/assets/f8bdd7c9-f9a6-41ff-a88e-9e46ff3daba1)
 
 The goal of the project is the split customers into distinct profiles and recommend tailored marketing strategies per segment.
 The project employs hierarchical clustering methods on customers' personal features, purchase behaviors and preferences to identify each customer profile.
@@ -9,7 +9,8 @@ Customer Personality Analysis dataset from Kaggle.
 Link: https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis
 
 ## Methodology
-![methodology](https://github.com/user-attachments/assets/9580c804-1895-4893-998d-5c100cdbadc5)
+![methodology](https://github.com/user-attachments/assets/2fe0e78f-05af-408d-84fd-6189a38a0507)
+
 | Step | Process                         | Description                                                                                                                                         |
 |:-----|:--------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1    | Data Cleaning and Preprocessing | Prepare the dataset by handling missing values, mapping ordinal values, one-hot encoding nominal features, and excluding unnecessary features       |
@@ -19,12 +20,12 @@ Link: https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis
 | 5    | Conclusion                      | Summarize the insights to create customer profiles, and suggest a marketing strategy per segment based on the results                               |
 | 6    | Recommendation                  | Provide recommendations for future studies on possible further improvements that could be made given the limitations of the current project         |
 
-## Results
-![dendrogram](https://github.com/user-attachments/assets/19319ef7-f4f5-4a99-a4ae-f97caa9c1071)
+## Results & Discussion
+![dendrogram](https://github.com/user-attachments/assets/51bfc34b-3eb4-4b9b-8105-92d04096a55c)
 
 Whilst four clusters are feasible, three segments are selected instead, as the smallest fourth cluster contains only 30 customers, which may be too niche of a segment from a sales and marketing perspective.
 
-![clusters](https://github.com/user-attachments/assets/4a08e432-8c98-4c2c-b2d2-417076f153a2)
+![clusters](https://github.com/user-attachments/assets/8b89b518-9c7c-4b37-926e-1a8385625eec)
 
 `Cluster 1: The Affluent Traditionalists`  
 `Subcluster 1 The Premier Traditionalists`:
