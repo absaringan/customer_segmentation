@@ -4,6 +4,10 @@
 The goal of the project is the split customers into distinct profiles and recommend tailored marketing strategies per segment.
 The project employs hierarchical clustering methods on customers' personal features, purchase behaviors and preferences to identify each customer profile.
 
+## Contributors
+Cabico, Andro  
+Saringan, Alyannah Bianca
+
 ## Data Source
 Customer Personality Analysis dataset from Kaggle.  
 Link: https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis
